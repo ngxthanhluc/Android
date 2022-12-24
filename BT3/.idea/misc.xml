@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BaiTap3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/BaiTap3/app/src/main/res/layout/activity_news_details.xml" value="0.1" />
+        <entry key="..\:/BaiTap3/app/src/main/res/layout/activity_read_news.xml" value="0.23007246376811594" />
+        <entry key="..\:/BaiTap3/app/src/main/res/layout/ten_file_xml_custom_layout.xml" value="0.23007246376811594" />
+        <entry key="..\:/MyProject/AndroidAssignment/Assginment3/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/MyProject/AndroidAssignment/Assginment3/app/src/main/res/layout/activity_news_details.xml" value="0.3625" />
+        <entry key="..\:/MyProject/AndroidAssignment/Assginment3/app/src/main/res/layout/activity_read_news.xml" value="0.3625" />
+        <entry key="..\:/MyProject/MyAndroid/BaiTap3/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/MyProject/MyAndroid/BaiTap3/app/src/main/res/layout/activity_news_details.xml" value="0.12158054711246201" />
+        <entry key="..\:/MyProject/MyAndroid/BaiTap3/app/src/main/res/layout/activity_read_news.xml" value="0.12158054711246201" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
